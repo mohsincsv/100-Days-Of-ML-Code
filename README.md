@@ -6,3 +6,6 @@
 You can also check my progress here at twitter [Mohsin Iqbal](https://twitter.com/MohsinIqbalpk).
 
 <br>
+
+## Round 1:
+- [Day 1](https://github.com/mohsinipk/100-Days-Of-ML-Code/tree/main/Round%201)
