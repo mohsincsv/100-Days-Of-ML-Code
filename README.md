@@ -3,6 +3,6 @@
 
 100 Days of Machine Learning Coding under supervision of [Ahmad Mustafa Anis](https://github.com/ahmadmustafaanis).
 
-You can also check my progress here at twitter ([Mohsin Iqbal](https://twitter.com/MohsinIqbalpk)).
+You can also check my progress here at twitter [Mohsin Iqbal](https://twitter.com/MohsinIqbalpk).
 
 <br>
