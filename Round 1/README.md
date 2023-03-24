@@ -12,4 +12,5 @@
 
 ## Day 3
 - Read 3-4 Articles on Machine Learning
-- Plan out my next project on an App
+- Did some code on my project [Create you own Image Classifier]
+- Plan out my next Project to create an application
