@@ -14,3 +14,23 @@
 - Read 3-4 Articles on Machine Learning
 - Did some code on my project [Create you own Image Classifier]
 - Plan out my next Project to create an application
+
+## Day 4
+- Completed 3 Videos of Python by Corey Schafer
+- Solved 2 Problems Algoexpert.io
+
+## Day 5
+- Completed the playlist of Python by Corey Schafer
+- Solved 2 Problems Algoexpert.io
+
+## Day 6
+- Done with half of freeCodeCamp's OOP Course
+- Read 2 Articles on Data Science by Youssef Hosni
+
+## Day 7
+- Done with remaining half of freeCodeCamp's OOP Course
+- Solved 2 Problems on AlgoExpert.io
+
+## Day 8
+- Completed watching the playlist of Programming Terms by Corey Schafer
+- Solved 2 Problems on AlgoExpert.io
