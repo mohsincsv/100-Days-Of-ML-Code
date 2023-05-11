@@ -34,3 +34,7 @@
 ## Day 8
 - Completed watching the playlist of Programming Terms by Corey Schafer
 - Solved 2 Problems on AlgoExpert.io
+
+## Day 9
+- Learned about the S.O.L.I.D Principles to make software development more scalable and maintainable.
+- I also wrote an article about this topic on medium.
