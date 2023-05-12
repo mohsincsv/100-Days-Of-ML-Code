@@ -16,3 +16,4 @@ You can also check my progress here at twitter [Mohsin Iqbal](https://twitter.co
 - [Day 6](https://github.com/mohsinipk/100-Days-Of-ML-Code/tree/main/Round%201)
 - [Day 7](https://github.com/mohsinipk/100-Days-Of-ML-Code/tree/main/Round%201)
 - [Day 8](https://github.com/mohsinipk/100-Days-Of-ML-Code/tree/main/Round%201)
+- [Day 9](https://github.com/mohsinipk/100-Days-Of-ML-Code/tree/main/Round%201)
